@@ -77,14 +77,14 @@ let a = null && 25; null; null - false;
 let a = null || 0 || 35; 35; 35 - true;
 let a = null && 0 && 35; null; null - false
 
-12 + 14 + '12'
-3 + 2 - '1'
-'3' + 2 - 1
-true + 2
-+'10' + 1
-undefined + 2
-null + 5
-true + undefined
+12 + 14 + '12'; 2612
+3 + 2 - '1'; 4 ; 1 - conversion to number
+'3' + 2 - 1; 4; 3 - conversion to number
+true + 2; = 3; because true = 1 - conversion to number
++'10' + 1; 11; conversion to number
+undefined + 2; 2undefined - conversion to string
+null + 5; NaN; NaN dosen't conversion
+true + undefined; NaN; undefined conversion to NaN
 
 */
 
