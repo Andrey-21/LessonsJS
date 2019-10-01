@@ -122,7 +122,16 @@ car.needRepair = true;
     car.needRepair = false;
 }
 
-//5
+//4
+let item = {name: 'Intel core i7',
+    price: '100$',
+    discount: '15%'};
+
+if (item.discount) {
+    item.priceWithDiscount = parseFloat(item.price) - parseFloat(item.discount);
+} else  {
+    console.log('some action')
+}
 
 //5
 let product = {
