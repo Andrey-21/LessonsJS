@@ -115,7 +115,7 @@ if (examp > 0) {
 //3
 let car = { name: "Lexus", age: 10, create: 2008, needRepair: false };
 
-/if (car.age > 5) {
+if (car.age > 5) {
 console.log("needRepair");
 car.needRepair = true;
 } else {
