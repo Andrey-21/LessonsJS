@@ -79,7 +79,7 @@ let a = null && 0 && 35; null; null - false
 
 12 + 14 + '12'; 2612
 3 + 2 - '1'; 4 ; 1 - conversion to number
-'3' + 2 - 1; 4; 3 - conversion to number
+'3' + 2 - 1; 31;
 true + 2; = 3; because true = 1 - conversion to number
 +'10' + 1; 11; conversion to number
 undefined + 2; 2undefined - conversion to string
