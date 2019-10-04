@@ -14,6 +14,7 @@ objPhone.details = {
 
 // HW lesson 2 slide 10
 
+//1
 let string = 'i am in the easycode';
 let newStr = '';
 
@@ -27,4 +28,11 @@ for (let i = 0; i < string.length; i++) {
     } else {
         newStr += string[i]
     }
+}
+
+//2
+let num = 10;
+let sum = 1;
+for (let i = 1; i <= n; i++) {
+    sum = sum * i
 }
