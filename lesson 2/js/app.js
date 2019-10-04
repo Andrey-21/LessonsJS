@@ -102,3 +102,18 @@ switch (inner) {
     case "else": inner = 'hidden'
 }
 
+let test = 0;
+
+switch (test) {
+    case 0: test = 1;
+    case < 0: test = 'less then zero'
+    case > 0 : test = *10;
+
+}
+
+let car = {name: "Lexus", age: 10, create: 2008, needRepair: false};
+
+switch (car) {
+    case car.age > 5: console.log('Need repair')
+    case car.needRepair: car.needRepair = true;
+}
