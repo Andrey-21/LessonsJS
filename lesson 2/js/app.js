@@ -30,7 +30,16 @@ for (let i = 0; i < string.length; i++) {
     }
 }
 
-//2
+//3
+let str = 'tseb eht ma i';
+let newStr = '';
+
+for (let i = str.length - 1; i >= 0; i-- ) {
+    newStr += str[i]
+}
+
+
+//3
 let num = 10;
 let sum = 1;
 for (let i = 1; i <= num; i++) {
