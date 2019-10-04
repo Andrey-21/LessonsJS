@@ -106,8 +106,8 @@ let test = 0;
 
 switch (test) {
     case 0: test = 1;
-    case < 0: test = 'less then zero'
-    case > 0 : test = *10;
+    case test < 0: test = 'less then zero'
+    case test > 0 : test = test *10;
 
 }
 
