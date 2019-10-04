@@ -22,9 +22,7 @@ for (let i = 0; i < string.length; i++) {
     if (i === 0) {
         newStr += string[i].toUpperCase()
     } else if (string[i] === ' ') {
-        newStr += string[i];
-        newStr += string[i + 1].toUpperCase();
-        i++
+        newStr += string[i] + string[++i].toUpperCase();
     } else {
         newStr += string[i]
     }
@@ -45,3 +43,17 @@ let sum = 1;
 for (let i = 1; i <= num; i++) {
     sum = sum * i
 };
+
+//4
+let string = 'JavaScript is a pretty good language';
+let newStr = '';
+
+for (let i = 0; i < string.length; i++) {
+    if (i === 0 && string[i] !== ' ') {
+        newStr += string[i].toUpperCase();
+    } else if (string[i] === ' ') {
+        newStr += string[++i].toUpperCase();
+    } else {
+        newStr += string[i];
+    }
+}
