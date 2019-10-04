@@ -94,3 +94,11 @@ switch (a) {
     case "other": console.log('other');
 }
 
+//2
+let inner = 'hidden';
+
+switch (inner) {
+    case "hidden": inner = 'visible';
+    case "else": inner = 'hidden'
+}
+

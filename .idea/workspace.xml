@@ -30,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson 2/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="83" column="19" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
+            <state relative-caret-position="529">
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -144,7 +144,7 @@
       <workItem from="1569968611164" duration="597000" />
       <workItem from="1569976930004" duration="874000" />
       <workItem from="1570050144888" duration="237000" />
-      <workItem from="1570144813753" duration="5911000" />
+      <workItem from="1570144813753" duration="7263000" />
     </task>
     <task id="LOCAL-00001" summary="HW page 10">
       <created>1569522727466</created>
@@ -237,11 +237,25 @@
       <option name="project" value="LOCAL" />
       <updated>1570150942456</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add new HW for lesson 2">
+      <created>1570156639020</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1570156639020</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Add new HW for lesson 2">
+      <created>1570157777449</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1570157777449</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17550000" />
+    <option name="totallyTimeSpent" value="18902000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -329,8 +343,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson 2/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="83" column="19" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
+        <state relative-caret-position="529">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
