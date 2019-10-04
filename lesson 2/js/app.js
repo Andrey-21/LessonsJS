@@ -95,6 +95,8 @@ switch (a) {
 }
 
 //2
+
+//2.1
 let inner = 'hidden';
 
 switch (inner) {
@@ -102,6 +104,8 @@ switch (inner) {
     case "else": inner = 'hidden'
 }
 
+
+//2.2
 let test = 0;
 
 switch (test) {
@@ -111,6 +115,8 @@ switch (test) {
 
 }
 
+
+//2.3
 let car = {name: "Lexus", age: 10, create: 2008, needRepair: false};
 
 switch (car) {
