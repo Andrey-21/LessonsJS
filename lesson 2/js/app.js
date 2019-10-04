@@ -82,3 +82,15 @@ for (let key in list) {
 }
 
 //HW lesson 2 slide 4
+
+//1
+let a = 'block';
+
+
+switch (a) {
+    case "block": console.log('block')
+    case "none": console.log('none')
+    case  "inline": console.log('inline')
+    case "other": console.log('other');
+}
+
