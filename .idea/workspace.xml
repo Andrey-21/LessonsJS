@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26cab79a-c59c-4772-82b5-694eb95f39bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson 2/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson 2/js/app.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson 2/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="461">
-              <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+            <state relative-caret-position="478">
+              <caret line="83" column="19" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -143,7 +144,7 @@
       <workItem from="1569968611164" duration="597000" />
       <workItem from="1569976930004" duration="874000" />
       <workItem from="1570050144888" duration="237000" />
-      <workItem from="1570144813753" duration="1467000" />
+      <workItem from="1570144813753" duration="5911000" />
     </task>
     <task id="LOCAL-00001" summary="HW page 10">
       <created>1569522727466</created>
@@ -201,11 +202,46 @@
       <option name="project" value="LOCAL" />
       <updated>1570146370376</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add new HW for lesson 2">
+      <created>1570147627559</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1570147627559</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add new HW for lesson 2">
+      <created>1570147645402</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1570147645402</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add new HW for lesson 2">
+      <created>1570147657205</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1570147657205</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add new HW for lesson 2">
+      <created>1570147719437</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1570147719437</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add new HW for lesson 2">
+      <created>1570150942456</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1570150942456</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13106000" />
+    <option name="totallyTimeSpent" value="17550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -293,8 +329,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson 2/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+        <state relative-caret-position="478">
+          <caret line="83" column="19" selection-start-line="83" selection-start-column="19" selection-end-line="83" selection-end-column="19" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>

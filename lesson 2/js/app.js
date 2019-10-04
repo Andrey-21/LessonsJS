@@ -57,3 +57,28 @@ for (let i = 0; i < string.length; i++) {
         newStr += string[i];
     }
 }
+
+//5
+let numArr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
+let newArr = [];
+for ( let item of numArr) {
+    if (item % 2) {
+
+        newArr.push(item)
+    }
+}
+
+//6
+let list = {
+    name: 'denis',
+    work: 'easycode',
+    age: 29
+};
+
+for (let key in list) {
+    if (typeof list[key] !== 'number') {
+        list[key] = list[key].toUpperCase()
+    }
+}
+
+//HW lesson 2 slide 4
