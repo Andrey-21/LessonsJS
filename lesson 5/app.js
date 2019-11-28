@@ -61,6 +61,28 @@
 //
 // console.log(numerator.double().plusOne().plusOne().minusOne());
 
+//Slide 16 - 17
 
+//1
+
+// const retailPrice = {
+//   products: { fruit: 15,
+//   groats: 44,
+//   vegetables: 24,
+//   meat: 148,
+//   fish: 95,
+//   },
+//
+//   priceProduct: function (obj) {
+//     let result = 0;
+//
+//   for (let key in obj) {
+//     result += obj[key];
+//   }
+//
+//     return result;
+//   }
+// };
+// console.log(retailPrice.priceProduct(retailPrice.products));
 
 

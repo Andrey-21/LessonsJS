@@ -88,9 +88,9 @@ let a = 'block';
 
 
 switch (a) {
-    case "block": console.log('block')
-    case "none": console.log('none')
-    case  "inline": console.log('inline')
+    case "block": console.log('block');
+    case "none": console.log('none');
+    case  "inline": console.log('inline');
     case "other": console.log('other');
 }
 
@@ -101,7 +101,7 @@ let inner = 'hidden';
 
 switch (inner) {
     case "hidden": inner = 'visible';
-    case "else": inner = 'hidden'
+    case "else": inner = 'hidden';
 }
 
 
@@ -110,7 +110,7 @@ let test = 0;
 
 switch (test) {
     case 0: test = 1;
-    case test < 0: test = 'less then zero'
+    case test < 0: test = 'less then zero';
     case test > 0 : test = test *10;
 
 }
@@ -120,6 +120,6 @@ switch (test) {
 let car = {name: "Lexus", age: 10, create: 2008, needRepair: false};
 
 switch (car) {
-    case car.age > 5: console.log('Need repair')
+    case car.age > 5: console.log('Need repair');
     case car.needRepair: car.needRepair = true;
 }
